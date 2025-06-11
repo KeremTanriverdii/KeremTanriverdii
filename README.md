@@ -72,7 +72,6 @@
 
 ###
 
-<p align="left">What am i learning now ?<br>🫥 I'm focused now <br>Web animations: GSAP<br>Headless CMS: ![Static Badge](https://img.shields.io/badge/Sanity-studio?style=flat&logo=sanity&logoColor=white&labelColor=black&color=black)
- </p>
+<p align="left">What am i learning now ?<br>🫥 I'm focused now <br>Web animations: GSAP<br>Headless CMS: </p> ![Static Badge](https://img.shields.io/badge/Sanity-studio?style=flat&logo=sanity&logoColor=white&labelColor=black&color=black)
 
 ###
