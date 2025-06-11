@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Three.js<br>🎯 Goals: Learning a new technologies and strengthen my skills.<br>🎲 Fun fact: sometimes happens bugs are enjoyable</p>
+<p align="left">📚 I'm currently learning Three.js, GSAP, Sanity Studio <br>🎯 Goals: Learning a new technologies and strengthen my skills.<br>🎲 Fun fact: sometimes happens bugs are enjoyable</p>
 
 ###
 
